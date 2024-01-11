@@ -1,0 +1,14 @@
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\bin\Debug\net8.0\LINQ to objects.exe
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\bin\Debug\net8.0\LINQ to objects.deps.json
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\bin\Debug\net8.0\LINQ to objects.runtimeconfig.json
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\bin\Debug\net8.0\LINQ to objects.dll
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\bin\Debug\net8.0\LINQ to objects.pdb
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\obj\Debug\net8.0\LINQ to objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\obj\Debug\net8.0\LINQ to objects.AssemblyInfoInputs.cache
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\obj\Debug\net8.0\LINQ to objects.AssemblyInfo.cs
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\obj\Debug\net8.0\LINQ to objects.csproj.CoreCompileInputs.cache
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\obj\Debug\net8.0\LINQ to objects.dll
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\obj\Debug\net8.0\refint\LINQ to objects.dll
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\obj\Debug\net8.0\LINQ to objects.pdb
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\obj\Debug\net8.0\LINQ to objects.genruntimeconfig.cache
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\LINQ to objects\obj\Debug\net8.0\ref\LINQ to objects.dll

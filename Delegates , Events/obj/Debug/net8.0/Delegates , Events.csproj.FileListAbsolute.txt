@@ -1,0 +1,14 @@
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\obj\Debug\net8.0\Delegates , Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\obj\Debug\net8.0\Delegates , Events.AssemblyInfoInputs.cache
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\obj\Debug\net8.0\Delegates , Events.AssemblyInfo.cs
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\obj\Debug\net8.0\Delegates , Events.csproj.CoreCompileInputs.cache
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\bin\Debug\net8.0\Delegates , Events.exe
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\bin\Debug\net8.0\Delegates , Events.deps.json
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\bin\Debug\net8.0\Delegates , Events.runtimeconfig.json
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\bin\Debug\net8.0\Delegates , Events.dll
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\bin\Debug\net8.0\Delegates , Events.pdb
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\obj\Debug\net8.0\Delegates , Events.dll
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\obj\Debug\net8.0\refint\Delegates , Events.dll
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\obj\Debug\net8.0\Delegates , Events.pdb
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\obj\Debug\net8.0\Delegates , Events.genruntimeconfig.cache
+C:\Users\kvdsp\source\repos\LINQ SNAD Practice files\Delegates , Events\obj\Debug\net8.0\ref\Delegates , Events.dll
