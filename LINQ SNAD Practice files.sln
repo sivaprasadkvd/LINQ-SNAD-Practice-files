@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collections", "collections\collections.csproj", "{959F29F3-5FEA-4AD2-9BEB-D8E861CBB6BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "collections", "collections\collections.csproj", "{959F29F3-5FEA-4AD2-9BEB-D8E861CBB6BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates , Events", "Delegates , Events\Delegates , Events.csproj", "{91CA8658-313C-48D4-B732-9B2311E44617}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates , Events", "Delegates , Events\Delegates , Events.csproj", "{91CA8658-313C-48D4-B732-9B2311E44617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ to objects", "LINQ to objects\LINQ to objects.csproj", "{CB1120A3-2CDB-43F6-8CF8-DDCA13CFC9EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ to objects", "LINQ to objects\LINQ to objects.csproj", "{CB1120A3-2CDB-43F6-8CF8-DDCA13CFC9EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ to Collections", "LINQ to Collections\LINQ to Collections.csproj", "{8F1996F4-ED6C-4098-B613-60A95D547EDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ to Collections", "LINQ to Collections\LINQ to Collections.csproj", "{8F1996F4-ED6C-4098-B613-60A95D547EDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementOperators", "ElementOperators\ElementOperators.csproj", "{4BC14F56-35AC-4D23-9117-E9F45C5FAD48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElementOperators", "ElementOperators\ElementOperators.csproj", "{4BC14F56-35AC-4D23-9117-E9F45C5FAD48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rough", "Rough\Rough.csproj", "{3E81B01E-CD2B-457F-9076-CB1241A02E62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{4BC14F56-35AC-4D23-9117-E9F45C5FAD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BC14F56-35AC-4D23-9117-E9F45C5FAD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BC14F56-35AC-4D23-9117-E9F45C5FAD48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E81B01E-CD2B-457F-9076-CB1241A02E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E81B01E-CD2B-457F-9076-CB1241A02E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E81B01E-CD2B-457F-9076-CB1241A02E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E81B01E-CD2B-457F-9076-CB1241A02E62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
